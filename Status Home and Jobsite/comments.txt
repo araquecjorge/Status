@@ -1,0 +1,44 @@
+
+    /*let data = false;
+    let attemps = 0;
+
+    while(data === false && attemps == 1){
+            data = await collectData(page);
+            console.log(data);
+            attemps += 1;
+            if(data == false){
+                result.push(
+                    urls[x],
+                    "404 Not Found"
+                )
+            }
+
+            if(data){
+                result.push(
+                    urls[x],
+                    "200 Get Url Success"
+                )
+            }
+
+       
+    }*/
+
+  
+    //const response = await page.goto(urls[1]);
+  
+
+    /*for(let x = 0; urls.length < x; x++){
+    
+        const response = await page.goto(urls[x]);
+
+        result.push(
+            urls[x],
+            response.status,
+        )
+        
+        await browser.close();
+
+    }*/
+
+
+    //console.log(response.status());
