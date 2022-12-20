@@ -36,7 +36,7 @@ import ObjectsToCsv from 'objects-to-csv';
 
         let item = {};
 
-        console.log("processing url", urls[x]);
+        //console.log("processing url", urls[x]);
         process.on("uncaughtException", (e) => {
 
         });
